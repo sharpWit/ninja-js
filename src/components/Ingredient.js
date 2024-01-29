@@ -1,5 +1,3 @@
-import React from "react";
-
 function Ingredient({ amount, measurement, name }) {
   return (
     <li>

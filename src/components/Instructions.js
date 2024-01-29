@@ -1,5 +1,3 @@
-import React from "react";
-
 function Instructions({ title, steps }) {
   return (
     <section className="instructions">
